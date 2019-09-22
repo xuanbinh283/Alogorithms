@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{8F191860-2BFA-4904-BC11-2E6EA0CD86C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{2B327758-301E-4CF0-9916-A1BEB7F549F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F191860-2BFA-4904-BC11-2E6EA0CD86C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F191860-2BFA-4904-BC11-2E6EA0CD86C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F191860-2BFA-4904-BC11-2E6EA0CD86C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F191860-2BFA-4904-BC11-2E6EA0CD86C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B327758-301E-4CF0-9916-A1BEB7F549F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B327758-301E-4CF0-9916-A1BEB7F549F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B327758-301E-4CF0-9916-A1BEB7F549F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B327758-301E-4CF0-9916-A1BEB7F549F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
